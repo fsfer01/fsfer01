@@ -1,7 +1,13 @@
 # Seja bem Vindo(a) ao meu Github 🤪
+Pode me chamar de Ferreirinha!
+Sou um Fullstack de Dados com um senso de humor afiado que consegue lidar com grandes volumes de informações de todos os tipos. 🤪
+
+Às vezes, me sinto como um mágico que cria e disponibiliza ferramentas e recurso para todos terem acesso e oportunidade de transformar um monte de dados brutos em insights valiosos para as empresas. 🥴
+
+Então, se você precisa de alguém para lidar com seus dados com profissionalismo e um senso de humor, não hesite em me chamar! Eu prometo que vou tornar o processo o mais divertido possível.
 
 ## Atualmente, estou na posição de Analytics Engineer em Dados na [MadeiraMadeira](madeiramadeira.com.br)💻📈🎲
-## Minhas antigas experiencias na área de dados foram:
+### Minhas antigas experiencias na área de dados foram:
 * Analista de Dados na [Algar Telecom](https://algartelecom.com.br/)💚📞🌐 📺
 * Analista de Dados na [@Irroba](https://www.irroba.com.br/)❤️📈 👨‍💻
 * Analista de Dados no [Magalu](https://www.magazineluiza.com.br/)💙📈 👨‍💻
