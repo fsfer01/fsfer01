@@ -4,7 +4,13 @@ Sou um Fullstack de Dados com um senso de humor afiado que consegue lidar com gr
 
 Às vezes, me sinto como um mágico que cria e disponibiliza ferramentas e recurso para todos terem acesso e oportunidade de transformar um monte de dados brutos em insights valiosos para as empresas. 🥴
 
-Então, se você precisa de alguém para lidar com seus dados com profissionalismo e um senso de humor, não hesite em me chamar! Eu prometo que vou tornar o processo o mais divertido possível.
+Então, se você precisa de alguém para lidar com seus dados com profissionalismo e um senso de humor, não hesite em me chamar! Eu prometo que vou tornar o processo o mais divertido possível. Mas, para conquistar você, segue um resumão abaixo do que eu já fiz:
+
+* Responsável por definir e executar um plano de otimização de custos da AWS e GCP em minhas experiências de trabalho. Afinal, dinheiro não é infinito né rs.
+* Criação de arquiteturas de dados para algumas SQUADs.
+* Reconstrução do pipeline de ingestão dos dados batch para o data warehouse (Redshift, Big Query, e bancos locais)
+* Definição de git-flow para inclusão e edição de novas features
+* Liderança e treinamento do time de AE na área de dados em temas como: boas práticas em desenvolvimento e arquitetura de software, Python e arquitetura de dados
 
 ## Atualmente, estou na posição de Analytics Engineer em Dados na [MadeiraMadeira](madeiramadeira.com.br)💻📈🎲
 ### Minhas antigas experiencias na área de dados foram:
