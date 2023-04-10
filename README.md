@@ -6,7 +6,7 @@ Sou um Fullstack de Dados com um senso de humor afiado que consegue lidar com gr
 
 Então, se você precisa de alguém para lidar com seus dados com profissionalismo e um senso de humor, não hesite em me chamar! Eu prometo que vou tornar o processo o mais divertido possível. Mas, para conquistar você, segue um resumão abaixo do que eu já fiz:
 
-* Responsável por definir e executar um plano de otimização de custos da AWS e GCP em minhas experiências de trabalho. Afinal, dinheiro não é infinito né rs.
+* Participei da execução do plano de otimização de custos da AWS e GCP em minhas experiências de trabalho.
 * Criação de arquiteturas de dados para algumas SQUADs.
 * Reconstrução do pipeline de ingestão dos dados batch para o data warehouse (Redshift, Big Query, e bancos locais)
 * Definição de git-flow para inclusão e edição de novas features
