@@ -12,12 +12,13 @@ Então, se você precisa de alguém para lidar com seus dados com profissionalis
 * Definição de git-flow para inclusão e edição de novas features
 * Liderança e treinamento do time de AE na área de dados em temas como: boas práticas em desenvolvimento e arquitetura de software, Python e arquitetura de dados
 
-## Atualmente, estou na posição de Analytics Engineer em Dados na [MadeiraMadeira](madeiramadeira.com.br)💻📈🎲
+## Atualmente, estou na posição de Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/) 💻📈🎲
 ### Minhas antigas experiencias na área de dados foram:
 * Analista de Dados na [Algar Telecom](https://algartelecom.com.br/)💚📞🌐 📺
 * Analista de Dados na [@Irroba](https://www.irroba.com.br/)❤️📈 👨‍💻
 * Analista de Dados no [Magalu](https://www.magazineluiza.com.br/)💙📈 👨‍💻
-* Analytics Engineers na [MadeiraMadeira](https://www.madeiramadeira.com.br/)🧡📈 👨‍💻
+* Analytics Engineer na [MadeiraMadeira](https://www.madeiramadeira.com.br/)🧡📈 👨‍💻
+* Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/)💚📈 👨‍💻
 
 # Alguns projetos que já foram implementados em minha carreira:
 
