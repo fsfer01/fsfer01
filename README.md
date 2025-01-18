@@ -14,7 +14,8 @@ Pode me chamar de Ferreirinha! Segue abaixo um breve resumo de minhas experiênc
 * Analista de Dados na [@Irroba](https://www.irroba.com.br/)❤️📈 👨‍💻
 
 * Analista de Dados no [Magalu](https://www.magazineluiza.com.br/)💙📈 👨‍💻
-  * [MAGALU - Criação e implantação de um DW na área de CX](https://github.com/fsfer01/dw_cx_magalu) ⬅️⬅️⬅️
+  * [Magalu - Criação e implantação de um DW na área de CX](https://github.com/fsfer01/dw_cx_magalu) ⬅️⬅️⬅️
+  * 
 
 * Analytics Engineer na [MadeiraMadeira](https://www.madeiramadeira.com.br/)🧡📈 👨‍💻
 
