@@ -1,10 +1,5 @@
 # Seja bem Vindo(a) ao meu Github 🤪
-Pode me chamar de Ferreirinha!
-Sou um Fullstack de Dados com um senso de humor afiado que consegue lidar com grandes volumes de informações de todos os tipos. 🤪
-
-Às vezes, me sinto como um mágico que cria e disponibiliza ferramentas e recurso para todos terem acesso e oportunidade de transformar um monte de dados brutos em insights valiosos para as empresas. 🥴
-
-Então, se você precisa de alguém para lidar com seus dados com profissionalismo e um senso de humor, não hesite em me chamar! Eu prometo que vou tornar o processo o mais divertido possível. Mas, para conquistar você, segue um resumão abaixo do que eu já fiz:
+Pode me chamar de Ferreirinha! Segue abaixo um breve resumo de minhas experiências, colaboração e projetos. 
 
 * Participei da execução do plano de otimização de custos da AWS e GCP em minhas experiências de trabalho.
 * Criação de arquiteturas de dados para algumas SQUADs.
@@ -13,16 +8,14 @@ Então, se você precisa de alguém para lidar com seus dados com profissionalis
 * Liderança e treinamento do time de AE na área de dados em temas como: boas práticas em desenvolvimento e arquitetura de software, Python e arquitetura de dados
 
 ## Atualmente, estou na posição de Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/) 💻📈🎲
-### Minhas antigas experiencias na área de dados foram:
+### Minhas experiencias na área de dados e principais projetos:
 * Analista de Dados na [Algar Telecom](https://algartelecom.com.br/)💚📞🌐 📺
+
 * Analista de Dados na [@Irroba](https://www.irroba.com.br/)❤️📈 👨‍💻
+
 * Analista de Dados no [Magalu](https://www.magazineluiza.com.br/)💙📈 👨‍💻
+  * [MAGALU - Criação e implantação de um DW na área de CX](https://github.com/fsfer01/dw_cx_magalu) ⬅️⬅️⬅️
+
 * Analytics Engineer na [MadeiraMadeira](https://www.madeiramadeira.com.br/)🧡📈 👨‍💻
+
 * Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/)💚📈 👨‍💻
-
-# Alguns projetos que já foram implementados em minha carreira:
-
-
-
-
-
