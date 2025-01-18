@@ -7,8 +7,7 @@ Pode me chamar de Ferreirinha! Segue abaixo um breve resumo de minhas experiênc
 * Definição de git-flow para inclusão e edição de novas features
 * Liderança e treinamento do time de AE na área de dados em temas como: boas práticas em desenvolvimento e arquitetura de software, Python e arquitetura de dados
 
-## Atualmente, estou na posição de Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/) 💻📈🎲
-### Minhas experiencias na área de dados e principais projetos:
+### Minhas experiencias na área de dados e principais projetos💻📈🎲
 * Analista de Dados na [Algar Telecom](https://algartelecom.com.br/)💚📞🌐 📺
 
 * Analista de Dados na [@Irroba](https://www.irroba.com.br/)❤️📈 👨‍💻
