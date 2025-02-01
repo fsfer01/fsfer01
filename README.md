@@ -14,8 +14,8 @@ Pode me chamar de Ferreirinha! Segue abaixo um breve resumo de minhas experiênc
 
 * Analista de Dados no [Magalu](https://www.magazineluiza.com.br/)💙📈 👨‍💻
   * [Magalu - Criação e implantação de um DW na área de CX](https://github.com/fsfer01/dw_cx_magalu) ⬅️⬅️⬅️
-  * 
-
+    
 * Analytics Engineer na [MadeiraMadeira](https://www.madeiramadeira.com.br/)🧡📈 👨‍💻
-
+  * [MadeiraMadeira - ETL com Databricks e Pyspark: Bounce Rate com dados do GA](https://github.com/fsfer01/databricks_pyspark_bounce_rate_google_analytics_mm)⬅️⬅️⬅️
+    
 * Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/)💚📈 👨‍💻
