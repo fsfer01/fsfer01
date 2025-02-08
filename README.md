@@ -19,6 +19,6 @@ Pode me chamar de Ferreirinha! Segue abaixo um breve resumo de minhas experiênc
   * [MadeiraMadeira - ETL com Databricks e Pyspark: Bounce Rate com dados do GA](https://github.com/fsfer01/databricks_pyspark_bounce_rate_google_analytics_mm)⬅️⬅️⬅️
     
 * Analytics Engineer na [Stone/Pagar.Me](https://www.stone.com.br/)💚📈 👨‍💻
-  * [Stone - Qualidade / monitoramento de Expectativa de indicadores](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento/expectativa_indicadores)
+  * [Stone - Qualidade de dados / Monitoramento de Expectativa de indicadores](https://github.com/fsfer01/qualidade_de_dados/tree/main/monitoramento/expectativa_indicadores)⬅️⬅️⬅️
 
 
